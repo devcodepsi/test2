@@ -1,0 +1,38 @@
+export const idList = [
+    {
+        id: 1, 
+        category: 'cat1',
+        subject: 'subject1',
+        content: 'content1',
+        img: [],
+        tag: ['tag1', 'tag2'],
+        commentId: 1,
+    },
+    {
+        id: 2,
+        category: 'cat2',
+        subject: 'subject2',
+        content: 'content2',
+        img: [],
+        tag: ['tag2', 'tag3'],
+        commentId: 2,
+    },
+    {
+        id: 3,
+        category: 'cat3',
+        subject: 'subject3',
+        content: 'content3',
+        img: [],
+        tag: ['tag1', 'tag3'],
+        commentId: 3,
+    },
+    {
+        id: 4,
+        category: 'cat4',
+        subject: 'subject4',
+        content: 'content4',
+        img: [],
+        tag: ['tag2', 'tag4'],
+        commentId: 4,
+    },
+]
